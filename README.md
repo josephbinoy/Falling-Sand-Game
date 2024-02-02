@@ -1,4 +1,4 @@
-# Falling-Sand-Simulator
+# Falling-Sand-Game
 ## An app that allows you to simulate falling sand particles using simple physics, built with JavaFX
 ## Features-
 - Drag or click mouse to drop sand!
