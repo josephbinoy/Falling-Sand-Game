@@ -1,8 +1,9 @@
 # Falling-Sand-Game
-## An app that allows you to simulate falling sand particles using simple physics, built with JavaFX
+## An app that allows you to simulate falling sand particles that change color, built with JavaFX
 ## Features-
 - Drag or click mouse to drop sand!
-- Color changing sand! (rate can be adjusted)
+- Change color changing rate
+- Change sand particle size
 
 ## Future goals
 - Add gravity physics (particle acceleration)
