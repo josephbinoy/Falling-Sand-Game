@@ -1,7 +1,7 @@
 # Falling-Sand-Game
 ## An app that allows you to simulate falling sand particles that change color, built with JavaFX
 ## Inspired by [The Coding Train's](https://www.youtube.com/@TheCodingTrain) video on the same topic
-## Find the exe installer in releases (WIndows only)
+## Find the installer in releases (Windows only). Honestly, it took way longer converting the project to an exe installer than the whole project itself >.<
 
 ## Drag or click mouse to drop sand!
 
